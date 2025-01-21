@@ -1,0 +1,6 @@
+export { default as authRoutes } from '../routes/authRoutes.js'
+export { default as accountRoutes } from '../routes/accountRoutes.js'
+export { default as componentRoutes } from './componentRoutes.js'
+export { default as financeRoutes } from './financeRoutes.js'
+export { default as vesselRoutes } from './vesselRoutes.js'
+export { default as calendarRoutes } from './calendarRoutes.js'
